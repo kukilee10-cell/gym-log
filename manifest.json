@@ -1,0 +1,26 @@
+{
+  "name": "Gym Log",
+  "short_name": "Gym Log",
+  "description": "A simple digital workout diary. Track today. Beat yesterday.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F4EA",
+  "theme_color": "#16342B",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
